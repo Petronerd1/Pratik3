@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\SesliHArfSayisi.exe
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\SesliHArfSayisi.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\SesliHArfSayisi.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\SesliHArfSayisi.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\SesliHArfSayisi.dll
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\ref\SesliHArfSayisi.dll
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\bin\Debug\net5.0\SesliHArfSayisi.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.dll
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\ref\SesliHArfSayisi.dll
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\SesliHArfSayisi\obj\Debug\net5.0\SesliHArfSayisi.genruntimeconfig.cache

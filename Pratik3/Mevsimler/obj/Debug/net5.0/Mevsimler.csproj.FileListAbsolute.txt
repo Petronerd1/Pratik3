@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\Mevsimler.exe
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\Mevsimler.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\Mevsimler.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\Mevsimler.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\Mevsimler.dll
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\ref\Mevsimler.dll
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\bin\Debug\net5.0\Mevsimler.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.dll
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\ref\Mevsimler.dll
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\Mevsimler\obj\Debug\net5.0\Mevsimler.genruntimeconfig.cache

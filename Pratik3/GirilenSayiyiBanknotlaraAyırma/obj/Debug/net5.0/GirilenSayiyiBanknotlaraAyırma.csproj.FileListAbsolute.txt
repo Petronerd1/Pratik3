@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.exe
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\ref\GirilenSayiyiBanknotlaraAyırma.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\bin\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\ref\GirilenSayiyiBanknotlaraAyırma.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\GirilenSayiyiBanknotlaraAyırma\obj\Debug\net5.0\GirilenSayiyiBanknotlaraAyırma.genruntimeconfig.cache

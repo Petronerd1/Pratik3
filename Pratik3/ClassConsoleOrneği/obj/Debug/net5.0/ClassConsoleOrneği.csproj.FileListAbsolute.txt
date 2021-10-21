@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ClassConsoleOrneği.exe
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ClassConsoleOrneği.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ClassConsoleOrneği.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ClassConsoleOrneği.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ClassConsoleOrneği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ref\ClassConsoleOrneği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\bin\Debug\net5.0\ClassConsoleOrneği.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ref\ClassConsoleOrneği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\ClassConsoleOrneği\obj\Debug\net5.0\ClassConsoleOrneği.genruntimeconfig.cache

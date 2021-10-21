@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\CelsiustoFahrenheit.exe
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\CelsiustoFahrenheit.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\CelsiustoFahrenheit.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\CelsiustoFahrenheit.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\CelsiustoFahrenheit.dll
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\ref\CelsiustoFahrenheit.dll
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\bin\Debug\net5.0\CelsiustoFahrenheit.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.dll
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\ref\CelsiustoFahrenheit.dll
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\CelsiustoFahrenheit\obj\Debug\net5.0\CelsiustoFahrenheit.genruntimeconfig.cache

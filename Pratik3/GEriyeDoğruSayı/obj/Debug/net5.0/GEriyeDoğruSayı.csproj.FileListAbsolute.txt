@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\GEriyeDoğruSayı.exe
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\GEriyeDoğruSayı.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\GEriyeDoğruSayı.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\GEriyeDoğruSayı.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\GEriyeDoğruSayı.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\ref\GEriyeDoğruSayı.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\bin\Debug\net5.0\GEriyeDoğruSayı.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\ref\GEriyeDoğruSayı.dll
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\GEriyeDoğruSayı\obj\Debug\net5.0\GEriyeDoğruSayı.genruntimeconfig.cache

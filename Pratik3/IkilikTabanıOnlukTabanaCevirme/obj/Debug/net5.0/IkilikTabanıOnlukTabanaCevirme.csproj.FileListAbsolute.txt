@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.exe
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.dll
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\ref\IkilikTabanıOnlukTabanaCevirme.dll
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\bin\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.dll
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\ref\IkilikTabanıOnlukTabanaCevirme.dll
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\IkilikTabanıOnlukTabanaCevirme\obj\Debug\net5.0\IkilikTabanıOnlukTabanaCevirme.genruntimeconfig.cache

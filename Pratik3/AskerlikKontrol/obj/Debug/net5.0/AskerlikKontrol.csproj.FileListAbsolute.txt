@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\AskerlikKontrol.exe
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\AskerlikKontrol.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\AskerlikKontrol.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\AskerlikKontrol.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\AskerlikKontrol.dll
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\ref\AskerlikKontrol.dll
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\bin\Debug\net5.0\AskerlikKontrol.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.dll
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\ref\AskerlikKontrol.dll
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\AskerlikKontrol\obj\Debug\net5.0\AskerlikKontrol.genruntimeconfig.cache

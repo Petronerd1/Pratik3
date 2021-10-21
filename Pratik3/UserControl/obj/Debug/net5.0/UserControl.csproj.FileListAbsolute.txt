@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\UserControl.exe
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\UserControl.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\UserControl.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\UserControl.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\UserControl.dll
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\ref\UserControl.dll
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\bin\Debug\net5.0\UserControl.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.dll
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\ref\UserControl.dll
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\UserControl\obj\Debug\net5.0\UserControl.genruntimeconfig.cache

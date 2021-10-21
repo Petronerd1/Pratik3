@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\TamBölünüpBölünmediği.exe
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\TamBölünüpBölünmediği.deps.json
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\TamBölünüpBölünmediği.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\TamBölünüpBölünmediği.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\TamBölünüpBölünmediği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\ref\TamBölünüpBölünmediği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\bin\Debug\net5.0\TamBölünüpBölünmediği.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\ref\TamBölünüpBölünmediği.dll
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.pdb
+C:\Users\ULAŞ\source\repos\Pratik3\TamBölünüpBölünmediği\obj\Debug\net5.0\TamBölünüpBölünmediği.genruntimeconfig.cache
